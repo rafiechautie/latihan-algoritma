@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.array;
 
 public class merged_sorted_array {
 
