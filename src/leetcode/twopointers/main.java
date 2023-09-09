@@ -6,7 +6,8 @@ public class main {
         String text = "A man, a plan, a canal: Panama";
 
         /**
-         * =====Approach======
+         * =====Approach====== (dia dapaet penjelasan dari chat gpt, jadi kalau sulit kamu bisa pakek itu)
+         *
          * This code is an implementation of a solution to determine if a given string is a palindrome.
          * A string is considered a palindrome if it reads the same forwards and backwards,
          * ignoring spaces, punctuation, and letter casing.
