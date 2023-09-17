@@ -3,7 +3,7 @@ package leetcode.array;
 public class remove_duplicates_from_sorted_array {
     public static void main(String[] args) {
         int[] nums= {
-                0, 0, 1, 1, 1, 2, 2, 3, 3, 4
+                1, 10, 9, 8
         };
 
 //        int[] nums = {
